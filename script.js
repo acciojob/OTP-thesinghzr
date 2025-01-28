@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function ok() {
+document.addEventListener("DOMContentLoaded", function () {
     const inputs = document.querySelectorAll('.code');
     
     inputs[0].focus();
